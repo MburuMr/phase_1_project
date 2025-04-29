@@ -12,6 +12,7 @@ The analysis is based on data obtained from the NTSB Aviation Dataset, which inc
 
 **Data Analysis**
 The project employs the following methods: 1.Data Preprocessing: Cleaning data to handle missing values and ensure consistency. 2.Exploratory Data Analysis: Analyzing trends and patterns in accidents by purpose of flight, weather, and aircraft type. 3.Visualization: Interactive charts and dashboards created in Tableau for stakeholder accessibility.
+**View Dashboard**: [Interactive Dashboard](https://public.tableau.com/views/Phase1project_17458993989650/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Key findings include: IMC weather conditions lead to significantly higher accident rates. For the purpose of the flight, personal purpose is the most accident-prone. Specific aircraft models, such as Cessna, appear frequently in accident reports.
 
